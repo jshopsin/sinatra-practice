@@ -1,9 +1,4 @@
-get '/' do
-  "Hello World"
-end
-
 # CONTACTS RESTful actions
-
 
 # COLLECTION ACTIONS:
 
